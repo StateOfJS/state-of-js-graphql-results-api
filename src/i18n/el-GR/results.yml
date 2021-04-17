@@ -1,0 +1,475 @@
+locale: el-GR
+translations:
+    ###########################################################################
+    # General
+    ###########################################################################
+
+    - key: results.start
+      t: Έναρξη
+
+    - key: page.previous
+      t: 'Προηγούμενο:'
+    - key: page.next
+      t: 'Επόμενο:'
+
+    - key: general.state_of_css_link
+      t: State of CSS
+
+    - key: general.netlify_link
+      t: Φιλοξενείται από <a href="${link}">Netlify</a>.
+
+    - key: general.completion_percentage
+      t: 'Ποσοστό ολοκλήρωσης:'
+
+    - key: partners.thanks
+      t: Ευχαριστούμε τους συνεργάτες μας για την υποστήριξη τους!
+
+    - key: partners.learn_more
+      t: Για περισσότερα.
+
+    ###########################################################################
+    # Options
+    ###########################################################################
+
+    - key: options.experience_ranking.satisfaction
+      t: Ικανοποίηση
+    - key: options.experience_ranking.interest
+      t: Ενδιαφέρον
+    - key: options.experience_ranking.usage
+      t: Χρήση
+    - key: options.experience_ranking.awareness
+      t: Επίγνωση
+    - key: options.features_simplified.know_it
+      t: Μάθετε για αυτό
+    - key: options.features_simplified.used_it
+      t: Το έχετε χρησιμοποιήσει
+    - key: options.features_simplified.usage_ratio
+      t: Αναλογία χρήσης
+
+    - key: options.quadrant.assess
+      t: ΕΚΤΙΜΗΣΗ
+    - key: options.quadrant.assess.long
+      t: |
+        ΕΚΤΙΜΗΣΗ: Χαμηλή χρήση, υψηλή ικανοποίηση. Τεχνολογίες που αξίζει για παρακολούθηση.
+    - key: options.quadrant.adopt
+      t: ΠΡΟΣΑΡΜΟΖΩ
+    - key: options.quadrant.adopt.long
+      t: |
+        ΠΡΟΣΑΡΜΟΖΩ: Υψηλή χρήση, υψηλή ικανοποίηση. Ασφαλείς τεχνολογίες για υιοθέτηση.
+    - key: options.quadrant.avoid
+      t: ΑΠΟΦΥΓΕΙ
+    - key: options.quadrant.avoid.long
+      t: |
+        ΑΠΟΦΥΓΕΙ: Χαμηλή χρήση, χαμηλή ικανοποίηση. Οι τεχνολογίες που θα αποφεύγονται πιθανότατα αυτήν τη στιγμή.
+    - key: options.quadrant.analyze
+      t: ΑΝΑΛΥΣΗ
+    - key: options.quadrant.analyze.long
+      t: |
+        ΑΝΑΛΥΣΗ: Υψηλή χρήση, χαμηλή ικανοποίηση. Επαναξιολογήστε τις τεχνολογίες εάν τις χρησιμοποιείτε αυτήν τη στιγμή.
+
+    - key: ranges.selector.years_of_experience
+      t: Εμπειρία
+    - key: ranges.selector.yearly_salary
+      t: Μισθός
+    - key: ranges.selector.company_size
+      t: Μέγεθος εταιρείας
+
+    ###########################################################################
+    # Sections
+    ###########################################################################
+
+    - key: sections.introduction.title
+      t: Εισαγωγή
+
+    - key: sections.demographics.title
+      t: Δημογραφικά στοιχεία
+
+    - key: sections.tshirt.title
+      t: T-shirt
+
+    - key: sections.technologies.title
+      t: Τεχνολογίες
+
+    - key: sections.conclusion.title
+      t: Συμπέρασμα
+
+    - key: sections.support.title
+      t: Υποστήριξε μας
+    - key: sections.support.description
+      t: >
+         Τρέχουμε αυτήν την έρευνα ως δευτερεύον έργο, αλλά για να το κάνουμε
+         βιώσιμο αναζητάμε πάντα συνεργάτες που μπορούν να μας βοηθήσουν,
+         είτε οικονομικά είτε βοηθώντας μας να το διαδώσουμε.
+         Αν νομίζετε ότι θα μπορούσατε να μας βοηθήσετε με οποιονδήποτε τρόπο, μην διστάσετε να το κάνετε [έρθετε σε επαφή](mailto:hello@stateofjs.com)!
+
+    ###########################################################################
+    # User Info
+    ###########################################################################
+
+    - key: user_info.locale
+      t: Γλώσσα
+    - key: user_info.locale.description
+      t: Ποια γλώσσα επέλεξαν οι ερωτηθέντες για να συμπληρώσουν την έρευνα;
+    - key: user_info.source
+      t: Πηγή
+    - key: user_info.source.description
+      t: Πώς έμαθαν οι ερωτηθέντες για την έρευνα?
+
+    ###########################################################################
+    # Locales
+    ###########################################################################
+
+    - key: options.locale.en-US
+      t: Αγγλικά
+    - key: options.locale.es-ES
+      t: Ισπανικά
+    - key: options.locale.ru-RU
+      t: Ρώσσικα
+    - key: options.locale.fr-FR
+      t: Γαλλικά
+    - key: options.locale.zh-Hant
+      t: Κινέζικα (Παραδοσιακά)
+    - key: options.locale.de-DE
+      t: Γερμανικά
+    - key: options.locale.cs-CZ
+      t: Τσέχικα
+    - key: options.locale.pt-PT
+      t: Πορτογαλικά
+    - key: options.locale.it-IT
+      t: Ιταλικά
+    - key: options.locale.sv-SE
+      t: Σουηδικά
+    - key: options.locale.tr-TR
+      t: Τούρκικα
+    - key: options.locale.id-ID
+      t: Ινδονησιακά
+    - key: options.locale.hi-IN
+      t: Ινδικά
+
+    ###########################################################################
+    # Features
+    ###########################################################################
+
+    - key: features.learn_more
+      t: Μάθε περισσότερα (MDN)
+    - key: features.mdn_link
+      t: MDN
+    - key: features.caniuse_link
+      t: CanIUse
+    - key: features.specification_link
+      t: W3C Προδιαγραφές
+
+    ###########################################################################
+    # Tools & Methodologies
+    ###########################################################################
+
+    # general
+    - key: tools.links
+      t: Συνδέσεις
+    - key: tools.github_link
+      t: GitHub
+    - key: tools.github_stars
+      t: Αστέρια
+    - key: tools.homepage_link
+      t: Αρχική
+    - key: tools.npm_link
+      t: NPM
+
+    ###########################################################################
+    # Blocks
+    ###########################################################################
+
+    # heatmaps
+    - key: blocks.tools_company_size_heatmap.title
+      t: Χρήση με βάση το μέγεθος εταιρείας
+    - key: blocks.tools_company_size_heatmap.description
+      t: |
+         Αναλόγος την χρήση της τεχνολογίας που διαδίδεται μεταξύ των ερωτηθέντων,
+         που έχουν επέλεξει διαφορετικά μεγέθοι εταιρειών.
+
+    - key: blocks.tools_yearly_salary_heatmap.title
+      t: Χρήση αναλόγος τον μισθό
+    - key: blocks.tools_yearly_salary_heatmap.description
+      t: |
+         Αναλόγος την χρήση της τεχνολογίας που διαδίδεται μεταξύ των ερωτηθέντων,
+         που έχουν διαφορετικούς μισθούς.
+
+    - key: blocks.tools_years_of_experience_heatmap.title
+      t: Χρήση αναλόγος την εμπειρία
+    - key: blocks.tools_years_of_experience_heatmap.description
+      t: |
+        Αναλόγος την χρήση της τεχνολογίας που διαδίδεται μεταξύ των ερωτηθέντων, που έχουν διαφορετικές εμπειρίες.
+        Σημειώστε ότι η εν λόγω εμπειρία είναι γενική εμπειρία και όχι εμπειρία στην συγκεκριμένη τεχνολογία.
+
+    # tool
+    - key: blocks.entity.homepage_link
+      t: Αρχική
+    - key: blocks.entity.github_link
+      t: GitHub
+
+    # tools quadrant
+    - key: blocks.tools_quadrant.title
+      t: Ικανοποίηση vs χρήσης
+    - key: blocks.tools_quadrant.satisfaction.description
+      t: |
+        Αυτό το γράφημα δείχνει την **αναλογία ικανοποίησης τεχνολογίας** έναντι του συνολικού **αριθμού χρηστών**.
+         Χωρίζεται σε τέσσερα τεταρτημόρια:
+
+          - **ASSESS**: Χαμηλή χρήση, υψηλή ικανοποίηση. Οι τεχνολογίες που αξίζει να ασχοληθείτε.
+
+          - **ADOPT**: Υψηλή χρήση, υψηλή ικανοποίηση. Οι ασφαλείς τεχνολογίες για υιοθέτηση.
+
+          - **AVOID**: Χαμηλή χρήση, χαμηλή ικανοποίηση. Οι τεχνολογίες που αποφεύγατε αυτήν τη στιγμή.
+
+          - **ANALYZE**: Υψηλή χρήση, χαμηλή ικανοποίηση. Οι τεχνολογίες που θα επανεξετάσετε τις οποίες χρησιμοποιείτε αυτήν τη στιγμή.
+
+    - key: blocks.tools_quadrant.interest.description
+      t: |
+        Αυτό το γράφημα δείχνει το **δείκτη ενδιαφέροντος κάθε τεχνολογίας** πάνω από το συνολικό **πλήθος χρηστών** (όπως ορίζεται από τους ερωτηθέντες που γνωρίζουν μια τεχνολογία αλλά *δεν το έχουν* χρησιμοποιήσει ακόμη).
+
+        (Σημειώστε ότι οι χαμηλοί αριθμοί χρηστών μπορεί να οφείλονται είτε σε μια άγνωστη τεχνολογία? ή μια τεχνολογία με πολλούς συμμετέχωντες που τη χρησιμοποιούν ήδη.)
+
+    # category other tools
+    - key: blocks.category_other_tools.title
+      t: Άλλα εργαλεία
+    - key: blocks.category_other_tools.description
+      t: Άλλα εργαλεία σε αυτήν την κατηγορία (ελεύθερες απαντήσεις).
+
+    # tool experience
+    - key: blocks.tool_experience.title
+      t: Εμπειρία ${name}
+    - key: blocks.tool_experience.description
+      t: Η εμπειρία του συμμετέχων ${name}.
+
+    # tool positive/negative split ("marimekko" chart)
+    - key: blocks.tools_experience_marimekko.title
+      t: Χωρισμός σε Θετική/αρνητική
+    - key: blocks.tools_experience_marimekko.description
+      t: |
+           Αυτό το γράφημα διαχωρίζεται θετικά ("θέλω να μάθω", "θα χρησιμοποιούσε ξανά") έναντι σε
+           αρνητικές εμπειρίες ("δεν ενδιαφέρομαι", "δεν θα χρησιμοποιούσα ξανά")
+           και οι δύο πλευρές ενός κεντρικού άξονα.
+
+           Το πάχος της ράβδου αντιπροσωπεύει τον αριθμό των συμμετεχόντων που γνωρίζουν μια τεχνολογία.
+
+    # tools section streams
+    - key: blocks.tools_section_streams.title
+      t: Εμπειρία με την πάροδο του χρόνου
+    - key: blocks.tools_section_streams.description
+      t: | Επισκόπηση των απόψεων σχετικά με τις τεχνολογίες που ερευνήθηκαν με την πάροδο του χρόνου.
+    - key: blocks.tools_section_streams.note
+      t: | Δεν περιλαμβάνονται τεχνολογίες με μόνο ένα έτος διάρκειας δεδομένων.
+
+    # tools section overview
+    - key: blocks.tools_section_overview.title
+      t: Επισκόπηση κατηγορίας
+    - key: blocks.tools_section_overview.description
+      t: |
+        Επισκόπηση των απόψεων σχετικά με τις τεχνολογίες που ερευνήθηκαν. Τα πιο σκοτεινά τμήματα αντιπροσωπεύουν θετικές απόψεις, ενώ ελαφρότερα τμήματα αντιστοιχούν σε αρνητικά συναισθήματα.
+
+    # tools experience ranking
+    - key: blocks.tools_experience_ranking.title
+      t: Κατάταξη 
+    - key: blocks.tools_experience_ranking.description
+      t: Κατάταξη ικανοποίησης, ενδιαφέροντος, χρήσης και ευαισθητοποίησης.
+    - key: blocks.tools_experience_ranking.note
+      t: |
+         Δεν περιλαμβάνονται τεχνολογίες με λιγότερο από 10% επίγνωση. Κάθε αναλογία ορίζεται ως εξής:
+         
+        - Ικανοποίηση: **θα χρησιμοποιούσε ξανά** vs **δεν θα το χρησιμοποιούσα ξανά**.
+        - Ενδιαφέρον: **θέλω να μάθω** vs **δεν ενδιαφέρομαι**.
+        - Χρήση: **θα χρησιμοποιούσε ξανά** + **δεν θα το χρησιμοποιούσα ξανά** vs επίγνωση.
+        - Επίγνωση: σύνολο - **δεν γνωρίζω**.
+
+    # happiness
+    - key: blocks.happiness.title
+      t: Συνολική ευτυχία
+    - key: blocks.happiness.description
+      t: |
+        Σε κλίμακα από ένα (πολύ δυσαρεστημένο) έως πέντε (πολύ χαρούμενο), πόσο ικανοποιημένοι είναι οι προγραμματιστές με την τρέχουσα συνολική κατάσταση αυτής της κατηγορίας?
+
+    # newsletter
+    - key: blocks.newsletter.title
+      t: Μείνετε συντονισμένοι
+    - key: blocks.newsletter.description
+      t: |
+        Αν θέλετε να μάθετε πότε θα κυκλοφορήσουν επιπλέον αποτελέσματα ή τις ανακοινώσεις για την έκδοση του επόμενου έτους,
+         απλώς αφήστε μας το email σας παρακάτω:
+    - key: blocks.newsletter.email
+      t: Το Email
+    - key: blocks.newsletter.submit
+      t: Ειδοποίησέ με
+
+    # features_overview
+    - key: blocks.features_overview.title
+      t: Usage Overview
+    - key: blocks.features_overview.description
+      t: |
+        This chart presents the various adoption rates for all features, grouped by category.
+
+        The size of the <span class="text-teal-darker text-bold">outer circle</span>
+        corresponds to the total number of users who know about a feature, while
+        the <span class="text-teal text-bold">inner one</span> represents those who have actually used it.
+
+        Hover on each node to view detailed data along with an <span class="text-blackpink text-bold">overlay</span>
+        representing the total number of survey respondents.
+
+    # export
+    - key: export.export
+      t: Export
+    - key: export.title
+      t: Export data for ${title}
+    - key: export.nocsv
+      t: Sorry, CSV export is not available for this dataset.
+    - key: export.graphql
+      t: >
+          You can copy paste this query into our <a target="_blank" rel="nofollow" href="http://graphiql.stateofjs.com/">public GraphQL API</a>.
+
+    # Tools usage variations
+    - key: blocks.tools_usage_variations.title
+      t: Usage Variations
+    - key: blocks.tools_usage_variations.description
+      t: |
+        How different factors such as salary range, years of experience
+        or company size influence usage (participants who answered either
+        ”would use again” or “would not use again”).
+
+        The baseline represents the base usage for each tool and the offsets
+        correspond to the delta from this baseline in each range. Let's say
+        tool X has an overall usage of 10% across all respondents (the baseline),
+        then if the percentage of users having from 1 to 2 years of experience
+        using this tool is 13% (compared to all users having from 1 to 2 years
+        of experience), then we have a positive delta of +3%.
+    - key: blocks.tools_usage_variations.note
+      t: |
+        Please keep in mind that tools having a lower overall usage tends to vary more.
+
+    # Recommended Resources
+    - key: blocks.recommended_resources.title
+      t: Recommended Resources
+
+    ###########################################################################
+    # Charts
+    ###########################################################################
+
+    - key: chart_units.percentage
+      t: Percents
+    - key: chart_units.count
+      t: Count
+
+    - key: charts.axis_legends.years_of_experience
+      t: Years of Experience
+    - key: charts.axis_legends.yearly_salary
+      t: Salary Range (USD)
+    - key: charts.axis_legends.company_size
+      t: Number of Employees
+    - key: charts.axis_legends.backend_proficiency
+      t: Back-end Proficiency
+    - key: charts.axis_legends.css_proficiency
+      t: CSS Proficiency
+    - key: charts.axis_legends.javascript_proficiency
+      t: JavaScript Proficiency
+    - key: charts.axis_legends.users_percentage
+      t: Percentage of Users
+    - key: charts.axis_legends.users_count
+      t: User Count
+    - key: charts.axis_legends.interest_percentage
+      t: Interest Percentage
+    - key: charts.axis_legends.satisfaction_percentage
+      t: Satisfaction Percentage
+    - key: charts.axis_legends.happiness
+      t: Happiness
+    - key: charts.axis_legends.knowledge_score
+      t: Known Features
+    - key: charts.axis_legends.frequency
+      t: Frequency
+
+    - key: charts.ranges_multiple_diverging_lines.baseline
+      t: baseline
+    - key: charts.ranges_multiple_diverging_lines.positive_offset
+      t: positive offset
+    - key: charts.ranges_multiple_diverging_lines.negative_offset
+      t: negative offset
+
+    ###########################################################################
+    # Sharing
+    ###########################################################################
+
+    - key: share.share
+      t: Share
+    - key: share.site.title
+      t: Discover the StateOf CSS 2020 results
+    - key: share.site.twitter_text
+      t: 'Discover the State Of CSS 2020 results ${link} #StateOfCSS'
+    - key: share.site.subject
+      t: State Of JavaScript Survey Results
+    - key: share.site.body
+      t: 'Here are some interesting CSS survey results: ${link}'
+    - key: share.block.twitter_text
+      t: '#StateOfCSS 2020: ${title} ${link}'
+    - key: share.block.subject
+      t: State Of CSS Survey Results
+    - key: share.block.body
+      t: 'Here are some interesting CSS survey results (${title}): ${link}'
+    - key: share.twitter
+      t: Share on Twitter
+    - key: share.facebook
+      t: Share on Facebook
+    - key: share.linkedin
+      t: Share on LinkedIn
+    - key: share.email
+      t: Share by email
+    - key: share.image
+      t: Get image
+
+    ###########################################################################
+    # Awards
+    ###########################################################################
+
+    - key: awards.runner_ups
+      t: Runner Ups
+
+    - key: award.feature_adoption_award.title
+      t: Most Used Feature
+    - key: award.feature_adoption_award.description
+      t: Awarded to the most adopted feature.
+
+    - key: award.feature_adoption_delta_award.title
+      t: Most Adopted Feature
+    - key: award.feature_adoption_delta_award.description
+      t: Awarded to the feature with the largest year-over-year ”have used” progression.
+
+    - key: award.tool_usage_award.title
+      t: Most Used Technology
+    - key: award.tool_usage_award.description
+      t: Awarded to the technology with the largest user base.
+
+    - key: award.tool_usage_delta_award.title
+      t: Most Adopted Technology
+    - key: award.tool_usage_delta_award.description
+      t: Awarded to the technology with the largest year-over-year “would use again” progression.
+
+    - key: award.tool_satisfaction_award.title
+      t: Highest Satisfaction
+    - key: award.tool_satisfaction_award.description
+      t: Awarded to the technology with the highest percentage of satisfied users.
+
+    - key: award.tool_interest_award.title
+      t: Highest Interest
+    - key: award.tool_interest_award.description
+      t: Awarded to the technology developers are most interested in learning.
+
+    - key: award.resource_usage_award.title
+      t: Most Used Resource
+    - key: award.resource_usage_award.description
+      t: Awarded to the resource with the largest user base.
+
+    - key: award.prediction_award.title
+      t: Prediction Award
+    - key: award.prediction_award.description
+      t: Awarded to an up-and-coming technology that might take over… or not?
+
+    - key: award.most_write_ins_award.title
+      t: Most Write-Ins
+    - key: award.most_write_ins_award.description
+      t: Awarded to the item with the most write-in answers
